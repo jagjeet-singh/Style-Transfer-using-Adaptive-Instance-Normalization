@@ -4,3 +4,4 @@ Requirements:
 1. Python 3.5+
 2. Tensorflow
 3. OpenGL
+![Alt text](UI.png?raw=true "UI view")
